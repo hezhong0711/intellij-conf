@@ -1,0 +1,46 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="DefaultGradleProjectSettings">
+        <option name="isMigrated" value="true" />
+      </component>
+      <component name="GradleLocalSettings">
+        <option name="projectSyncType">
+          <map>
+            <entry key="$USER_HOME$/Dev/otr-account-management" value="PREVIEW" />
+            <entry key="$USER_HOME$/Dev/otr-accounting" value="PREVIEW" />
+            <entry key="$USER_HOME$/Dev/otr-accounting-masterdata" value="PREVIEW" />
+            <entry key="$USER_HOME$/Dev/otr-service-as-file" value="PREVIEW" />
+            <entry key="$USER_HOME$/Dev/otr-service-bff" value="PREVIEW" />
+            <entry key="$USER_HOME$/Dev/otr-vehicle-management" value="PREVIEW" />
+            <entry key="$USER_HOME$/Dev/otr-website" value="PREVIEW" />
+            <entry key="$USER_HOME$/Dev/otr-website-bff" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/otr-account-management" value="PREVIEW" />
+            <entry key="$USER_HOME$/IdeaProjects/otr-aftersales-order-management" value="PREVIEW" />
+            <entry key="$USER_HOME$/Learn/gradle/demo" value="PREVIEW" />
+          </map>
+        </option>
+      </component>
+      <component name="PropertiesComponent">
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+      </component>
+      <component name="masterDetails">
+        <states>
+          <state key="ProjectJDKs.UI">
+            <settings>
+              <last-edited>1.8</last-edited>
+              <splitter-proportions>
+                <option name="proportions">
+                  <list>
+                    <option value="0.2" />
+                  </list>
+                </option>
+              </splitter-proportions>
+            </settings>
+          </state>
+        </states>
+      </component>
+    </defaultProject>
+  </component>
+</application>

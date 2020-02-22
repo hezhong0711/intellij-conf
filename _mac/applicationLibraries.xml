@@ -1,0 +1,16 @@
+<application>
+  <component name="libraryTable">
+    <library name="Cocos Creator" type="javaScript">
+      <properties>
+        <sourceFilesUrls>
+          <item url="file:///Applications/CocosCreator.app/Contents/Resources/engine/cocos2d" />
+        </sourceFilesUrls>
+      </properties>
+      <CLASSES>
+        <root url="file:///Applications/CocosCreator.app/Contents/Resources/engine/cocos2d" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+    </library>
+  </component>
+</application>
