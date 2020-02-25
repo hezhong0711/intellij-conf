@@ -30,6 +30,10 @@
           <option name="url" value="http://github.com" />
           <option name="userName" value="hezhong0711" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/hezhong0711/intellij-sdk-docs.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/Dev" />
