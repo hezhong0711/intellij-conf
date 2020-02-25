@@ -1,6 +1,15 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Implementation of additional actions" />
+      <item value="implies" />
+      <item value="Tool integration makes it possible to manipulate third-party tools and components directly from the IDE without switching contexts." />
+      <item value="manipulate" />
+      <item value="Integration" />
+      <item value="Tool Integration" />
+      <item value="Plugins in this category apply various changes to the standard user interface of the IDE. Some newly added components are interactive and provide new functionality, while others are limited to visual modifications only. The [Background Image](https://plugins.jetbrains.com/plugin/72) plugin may serve as an example." />
+      <item value="various" />
+      <item value="category" />
       <item value="add-ons" />
       <item value="starvation Degree" />
       <item value="correctness" />
@@ -33,8 +42,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="20" />
-        <entry key="ENGLISH" value="25" />
+        <entry key="CHINESE" value="29" />
+        <entry key="ENGLISH" value="34" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="ESPERANTO" value="2" />
       </map>
