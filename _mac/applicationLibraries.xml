@@ -78,7 +78,10 @@
         <root url="jar://$USER_HOME$/sdk/groovy/lib/jcommander-1.72.jar!/" />
       </CLASSES>
       <JAVADOC />
-      <SOURCES />
+      <SOURCES>
+        <root url="file://$USER_HOME$/sdk/groovy/lib" />
+        <root url="jar://$USER_HOME$/.ideaLibSources/groovy-3.0.2-sources.jar!/" />
+      </SOURCES>
     </library>
   </component>
 </application>
