@@ -11,5 +11,6 @@
     <mask>*.ts</mask>
     <mask>*.java</mask>
     <mask>*.form</mask>
+    <mask>*.jrxml</mask>
   </component>
 </application>
