@@ -12,6 +12,14 @@
       <JAVADOC />
       <SOURCES />
     </library>
+    <library name="eclipse">
+      <CLASSES>
+        <root url="file://$USER_HOME$/Learn/eclipse-workspace/.metadata/.plugins" />
+      </CLASSES>
+      <JAVADOC />
+      <SOURCES />
+      <jarDirectory url="file://$USER_HOME$/Learn/eclipse-workspace/.metadata/.plugins" recursive="false" />
+    </library>
     <library name="groovy-3.0.2">
       <CLASSES>
         <root url="jar://$USER_HOME$/sdk/groovy/lib/gpars-1.2.1.jar!/" />
