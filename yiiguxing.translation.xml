@@ -62,6 +62,7 @@
       </google-translate>
     </option>
     <option name="ignoreRegExp" value="" />
+    <option name="translateDocumentation" value="false" />
     <option name="youdaoTranslateSettings">
       <youdao-translate>
         <option name="primaryLanguage" value="CHINESE" />
