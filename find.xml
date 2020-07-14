@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="Module 'scan_java_bytecode'" />
+    <option name="defaultScopeName" value="Module 'scan_java_bytecode'" />
+    <option name="SEARCH_SCOPE" value="Module 'scan_java_bytecode'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.jsp</mask>
