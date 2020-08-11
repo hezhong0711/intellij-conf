@@ -1,6 +1,7 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Designates" />
       <item value="synchronously" />
       <item value="variant" />
       <item value="Guarantee" />
@@ -49,8 +50,8 @@
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="39" />
-        <entry key="ENGLISH" value="42" />
+        <entry key="CHINESE" value="40" />
+        <entry key="ENGLISH" value="43" />
         <entry key="AFRIKAANS" value="1" />
         <entry key="ESPERANTO" value="2" />
       </map>
