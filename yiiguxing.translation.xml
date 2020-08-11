@@ -1,6 +1,9 @@
 <application>
   <component name="AppStorage">
     <histories>
+      <item value="Metadata about a configurable instance." />
+      <item value="Descriptor" />
+      <item value="described" />
       <item value="expensive" />
       <item value="frequently" />
       <item value="mechanism" />
@@ -48,15 +51,13 @@
       <item value="implementation" />
       <item value="feat" />
       <item value="chore" />
-      <item value="Enumerable Property Source" />
-      <item value="timing" />
-      <item value="Mutable Property Sources" />
     </histories>
     <option name="languageScores">
       <map>
-        <entry key="CHINESE" value="45" />
-        <entry key="ENGLISH" value="48" />
+        <entry key="CHINESE" value="48" />
+        <entry key="ENGLISH" value="50" />
         <entry key="AFRIKAANS" value="1" />
+        <entry key="GALICIAN" value="1" />
         <entry key="ESPERANTO" value="2" />
       </map>
     </option>
