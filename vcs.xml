@@ -50,9 +50,13 @@
           <option name="url" value="https://github.com/vickerx/hero-book-ui.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="svn://cloud.prochen.com/gtgej2020" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/Dev/hero-book" />
+    <option name="cloneParentDir" value="$USER_HOME$/Dev" />
   </component>
   <component name="Vcs.Log.App.Settings">
     <option name="SHOW_CHANGES_FROM_PARENTS" value="true" />
