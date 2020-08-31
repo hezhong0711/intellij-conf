@@ -14,8 +14,8 @@
     <mask>*.tsx</mask>
     <mask>*.ts</mask>
     <mask>*.gradle</mask>
-    <mask>*.kt</mask>
     <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
