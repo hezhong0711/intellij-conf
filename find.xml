@@ -17,5 +17,6 @@
     <mask>*.xml</mask>
     <mask>*.java</mask>
     <mask>*.kt</mask>
+    <mask>*.sql</mask>
   </component>
 </application>
