@@ -19,8 +19,8 @@
     <mask>*.ts</mask>
     <mask>*.gradle</mask>
     <mask>*.xml</mask>
-    <mask>*.kt</mask>
-    <mask>*.java</mask>
     <mask>*.sql</mask>
+    <mask>*.java</mask>
+    <mask>*.kt</mask>
   </component>
 </application>
