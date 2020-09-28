@@ -10,6 +10,7 @@
       <mapping ext="jelly" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="te" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
