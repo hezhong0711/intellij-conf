@@ -7,10 +7,10 @@
       <mapping pattern="V2019_07_04_16_00_create_table_transaction_parts_stock" type="PLAIN_TEXT" />
       <mapping pattern="file1" type="PLAIN_TEXT" />
       <mapping pattern="file2" type="PLAIN_TEXT" />
+      <mapping ext="jelly" type="PLAIN_TEXT" />
       <mapping ext="xmind" type="PLAIN_TEXT" />
       <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="te" type="PLAIN_TEXT" />
-      <mapping ext="jelly" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
