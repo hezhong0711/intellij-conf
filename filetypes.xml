@@ -2,15 +2,15 @@
   <component name="FileTypeManager" version="17">
     <ignoreFiles list="*.hprof;*.meta;*.pyc;*.pyo;*.rbc;*.yarb;*~;.DS_Store;.git;.hg;.svn;CVS;__pycache__;_svn;vssver.scc;vssver2.scc;" />
     <extensionMap>
-      <mapping ext="main.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping ext="main.kts" type="Kotlin" />
       <mapping pattern="V2019_07_04_16_00_create_table_transaction_parts_stock" type="PLAIN_TEXT" />
       <mapping pattern="file1" type="PLAIN_TEXT" />
       <mapping pattern="file2" type="PLAIN_TEXT" />
-      <mapping ext="jelly" type="PLAIN_TEXT" />
-      <mapping ext="xmind" type="PLAIN_TEXT" />
-      <mapping ext="jks" type="PLAIN_TEXT" />
       <mapping ext="te" type="PLAIN_TEXT" />
+      <mapping ext="jks" type="PLAIN_TEXT" />
+      <mapping ext="xmind" type="PLAIN_TEXT" />
+      <mapping ext="jelly" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
